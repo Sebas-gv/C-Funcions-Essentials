@@ -1,0 +1,15 @@
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\bin\Debug\net10.0\Functions 1.exe
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\bin\Debug\net10.0\Functions 1.deps.json
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\bin\Debug\net10.0\Functions 1.runtimeconfig.json
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\bin\Debug\net10.0\Functions 1.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\bin\Debug\net10.0\Functions 1.pdb
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Functions 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Functions 1.AssemblyInfoInputs.cache
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Functions 1.AssemblyInfo.cs
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Functions 1.csproj.CoreCompileInputs.cache
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Functions 1.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\refint\Functions 1.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Functions 1.pdb
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Functions 1.genruntimeconfig.cache
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\ref\Functions 1.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Funcions Essentials\Functions 1\Functions 1\obj\Debug\net10.0\Function.2234D237.Up2Date
